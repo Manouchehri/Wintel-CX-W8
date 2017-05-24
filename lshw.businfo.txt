@@ -1,0 +1,26 @@
+Bus info          Device           Class       Description
+==========================================================
+                                   system      CherryTrail (Type1 - SKU0)
+                                   bus         Type2 - Board Product Name
+                                   memory      64KiB BIOS
+cpu@0                              processor   Intel(R) Atom(TM) x5-Z8300  CPU @ 1.44GHz
+                                   memory      32KiB L1 cache
+                                   memory      1MiB L2 cache
+                                   memory      24KiB L1 cache
+                                   memory      2GiB System Memory
+                                   memory      2GiB DIMM DDR3 Synchronous 1600 MHz (0.6 ns)
+pci@0000:00:00.0                   bridge      Intel Corporation
+pci@0000:00:02.0                   display     Intel Corporation
+pci@0000:00:03.0                   multimedia  Intel Corporation
+pci@0000:00:0b.0                   generic     Intel Corporation
+pci@0000:00:14.0                   bus         Intel Corporation
+usb@2             usb2             bus         xHCI Host Controller
+usb@1             usb1             bus         xHCI Host Controller
+usb@1:2                            bus         USB 2.0 Hub
+usb@1:3                            generic     USB 10/100 LAN
+usb@1:4                            input       daskeyboard
+pci@0000:00:1a.0                   generic     Intel Corporation
+pci@0000:00:1f.0                   bridge      Intel Corporation
+                                   power       SR Real Battery
+                                   power       OEM Define 5
+                  eth0             network     Ethernet interface
